@@ -7,8 +7,8 @@ public class Test {
 	   
       BufferedImage bi1 = null;
       BufferedImage bi2 = null;
-      String fname = "ea1.png";
-      String fname2 = "ea2.png";
+      String fname = "yk5.png";
+      String fname2 = "ea4.png";
       ImageSet is = new ImageSet();
 
       try {
